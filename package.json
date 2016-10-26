@@ -1,0 +1,27 @@
+{
+  "name": "kxmongo",
+  "description": "Kmrweb.net Mongo Database Library",
+  "keywords": [
+    "monogo",
+    "database"
+  ],
+  "homepage": "http://www.kmrweb.net/server/mongo.html",
+  "license": "MIT",
+  "version": "0.2.1",
+  "author": {
+    "name": "michihiro kimura",
+    "email": "kimura@kmrweb.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.org/m0kimura/kxmongo.git"
+  },
+  "dependencies": {
+    "kxuty": "latest",
+    "mongodb": "latest"
+  },
+  "engines": {
+    "node": ">=4.2.6"
+  },
+  "main": "./kxmongo.js"
+}
