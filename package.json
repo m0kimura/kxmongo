@@ -7,7 +7,7 @@
   ],
   "homepage": "http://www.kmrweb.net/server/mongo.html",
   "license": "MIT",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": {
     "name": "michihiro kimura",
     "email": "kimura@kmrweb.net"
@@ -17,8 +17,8 @@
     "url": "git://github.org/m0kimura/kxmongo.git"
   },
   "dependencies": {
-    "kxuty": "latest",
-    "mongodb": "latest"
+    "kxuty": "^0.2.1",
+    "mongodb": "^2.2.11"
   },
   "engines": {
     "node": ">=4.2.6"
